@@ -2,13 +2,13 @@ import { initializeApp } from 'firebase/app';
 import { getAuth, getRedirectResult, GoogleAuthProvider, signInWithPopup, signInWithRedirect, signOut } from "firebase/auth";
 
 const firebaseConfig = {
-    apiKey: "AIzaSyDkzYdK1W8NwoZnJyCCb3xdB6gxVdvsmpc",
-    authDomain: "cursus-japanese.firebaseapp.com",
-    projectId: "cursus-japanese",
-    storageBucket: "cursus-japanese.appspot.com",
-    messagingSenderId: "1019529004140",
-    appId: "1:1019529004140:web:031c160411adedcfc44449",
-    measurementId: "G-8L3WPGW7M7"
+    apiKey: "",
+    authDomain: "",
+    projectId: "",
+    storageBucket: "",
+    messagingSenderId: "",
+    appId: "",
+    measurementId: ""
   };
 
 const app = initializeApp(firebaseConfig);
