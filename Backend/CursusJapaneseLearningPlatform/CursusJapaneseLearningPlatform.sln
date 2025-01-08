@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34916.146
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursusJapaneseLearningPlatform.API", "CursusJapaneseLearningPlatform.API\CursusJapaneseLearningPlatform.API.csproj", "{0AFB927D-E1E1-4A94-A2D3-8BCE4C75319A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursusJapaneseLearningPlatform.Service", "CursusJapaneseLearningPlatform.Service\CursusJapaneseLearningPlatform.Service.csproj", "{E9E7F16A-15A5-4F90-BE24-5EECD63D3E19}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursusJapaneseLearningPlatform.Repository", "CursusJapaneseLearningPlatform.Repository\CursusJapaneseLearningPlatform.Repository.csproj", "{C927DDC3-019C-4EA3-8E4C-B3659A1883DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0AFB927D-E1E1-4A94-A2D3-8BCE4C75319A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AFB927D-E1E1-4A94-A2D3-8BCE4C75319A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AFB927D-E1E1-4A94-A2D3-8BCE4C75319A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AFB927D-E1E1-4A94-A2D3-8BCE4C75319A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9E7F16A-15A5-4F90-BE24-5EECD63D3E19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9E7F16A-15A5-4F90-BE24-5EECD63D3E19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9E7F16A-15A5-4F90-BE24-5EECD63D3E19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9E7F16A-15A5-4F90-BE24-5EECD63D3E19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C927DDC3-019C-4EA3-8E4C-B3659A1883DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C927DDC3-019C-4EA3-8E4C-B3659A1883DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C927DDC3-019C-4EA3-8E4C-B3659A1883DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C927DDC3-019C-4EA3-8E4C-B3659A1883DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {81661F52-39F8-4984-8790-9C7990F77493}
+	EndGlobalSection
+EndGlobal

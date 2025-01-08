@@ -1,0 +1,60 @@
+# Tệp tạm thời của hệ điều hành
+.DS_Store
+Thumbs.db
+
+# Build results
+**/bin/
+**/obj/
+**/Debug/
+**/Release/
+**/x64/
+**/x86/
+**/ARM/
+**/ARM64/
+**/bld/
+**/Log/
+**/Logs/
+
+
+
+# Tệp cấu hình cá nhân
+*.user
+*.suo
+*.vs/
+.vscode/
+*.sln.docstates
+
+# Thư mục và tệp tạm thời
+tmp/
+temp/
+*.tmp
+
+# Tệp phụ thuộc của môi trường
+node_modules/
+bower_components/
+
+# Tệp nhị phân
+*.dll
+*.exe
+*.pdb
+*.cache
+
+# Tệp log
+*.log
+
+# Tệp tạm của Visual Studio
+.vs/
+
+# Tệp backup
+*.bak
+
+# Thư mục của dịch vụ quản lý gói
+packages/
+
+# Tệp nhị phân của NuGet
+*.nupkg
+
+# Tệp của Docker
+*.dockerignore
+Dockerfile
+docker-compose.yml

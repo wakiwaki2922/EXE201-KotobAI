@@ -1,0 +1,9 @@
+[[plugins]]
+package = "@netlify/plugin-nextjs"
+
+[build]
+command = "npm run build:prod"
+publish = ".next"
+
+[blobs]
+provider = "netlify"
